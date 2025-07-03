@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @sabillahm
-- 👀 I’m interested in Data Sciene and Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? please email me
 
-<!---
-sabillahm/sabillahm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Hi, I'm Sabilla!
+
+👩🏻‍💻 Sharing about my journey and learnings in tech. Especially Data Science, Machine Learning, Optimization, Image Processing <br/>
+👩🏻‍🎓 Graduated in Master of Engineering in Information Technology | Gadjah Mada University <br/>
+💭 Currently learning about Model Compression and how to be an AI Engineer <br/>
+🌷 Soon, I will share my coding journey <br/>
+📫 How to reach me? please email me <br/>
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Sabilla's github stats](https://github-readme-stats.vercel.app/api?username=sabillahm&count_private=true&show_icons=true&theme=catppuccin_latte&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
